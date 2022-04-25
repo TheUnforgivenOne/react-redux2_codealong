@@ -1,0 +1,25 @@
+{
+  "name": "react-redux2-codealong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheUnforgivenOne/react-redux2-codealong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheUnforgivenOne/react-redux2-codealong/issues"
+  },
+  "homepage": "https://github.com/TheUnforgivenOne/react-redux2-codealong#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
